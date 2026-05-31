@@ -1,0 +1,1 @@
+Nesta pasta estão armazenados os resultados obtidos a partir dos 30 conjuntos de dados originais anonimizados, totalizando 150 bases de dados, avaliados sob diferentes métricas de desempenho e algoritmos de aprendizado de máquina.

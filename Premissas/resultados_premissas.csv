@@ -1,0 +1,121 @@
+﻿Banco;Técnica;k-anonimato;k mínimo;l-diversidade;l mínimo;NCP;Avaliação NCP;Similaridade;Avaliação Similaridade
+accident_dp.xlsx;DP;;;;;0.1405;Baixa perda;;Não aplicável (DP)
+accident_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+accident_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+accident_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+adult_dp.xlsx;DP;;;;;0.2767;Baixa perda;;Não aplicável (DP)
+adult_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+adult_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+adult_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+AIDS_Classification_dp.xlsx;DP;;;;;0.0134;Baixa perda;;Não aplicável (DP)
+AIDS_Classification_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+AIDS_Classification_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+AIDS_Classification_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+bank_dp.xlsx;DP;;;;;0.2368;Baixa perda;;Não aplicável (DP)
+bank_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+bank_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+bank_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+booking_dp.xlsx;DP;;;;;0.1394;Baixa perda;;Não aplicável (DP)
+booking_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.2132;Baixo risco
+booking_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.1255;Baixo risco
+booking_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0356;Baixo risco
+brain_stroke_dp.xlsx;DP;;;;;0.2106;Baixa perda;;Não aplicável (DP)
+brain_stroke_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.2345;Baixo risco
+brain_stroke_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0345;Baixo risco
+brain_stroke_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.2156;Baixo risco
+cardio_train_dp.xlsx;DP;;;;;0.1207;Baixa perda;;Não aplicável (DP)
+cardio_train_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.3005;Risco moderado
+cardio_train_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.3;Risco moderado
+cardio_train_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.2956;Baixo risco
+companhia_aerea_dp.xlsx;DP;;;;;0.1086;Baixa perda;;Não aplicável (DP)
+companhia_aerea_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+companhia_aerea_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+companhia_aerea_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+customer_churn_telecom_services_dp.xlsx;DP;;;;;0.1723;Baixa perda;;Não aplicável (DP)
+customer_churn_telecom_services_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0751;Baixo risco
+customer_churn_telecom_services_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0339;Baixo risco
+customer_churn_telecom_services_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0048;Baixo risco
+diabetes_data_dp.xlsx;DP;;;;;0.2402;Baixa perda;;Não aplicável (DP)
+diabetes_data_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+diabetes_data_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+diabetes_data_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+diabetes_dp.xlsx;DP;;;;;17.606;Alta perda;;Não aplicável (DP)
+diabetes_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.2353;Baixo risco
+diabetes_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.179;Baixo risco
+diabetes_prediction_dataset_dp.xlsx;DP;;;;;0.3081;Perda moderada;;Não aplicável (DP)
+diabetes_prediction_dataset_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.3929;Risco moderado
+diabetes_prediction_dataset_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.3107;Risco moderado
+diabetes_prediction_dataset_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.3923;Risco moderado
+diabetes_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.1363;Baixo risco
+drug200_dp.xlsx;DP;;;;;0.0855;Baixa perda;;Não aplicável (DP)
+drug200_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+drug200_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+drug200_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+employeePromotion_dp.xlsx;DP;;;;;0.5424;Perda moderada;;Não aplicável (DP)
+employeePromotion_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+employeePromotion_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+employeePromotion_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+Employee_dp.xlsx;DP;;;;;11.377;Alta perda;;Não aplicável (DP)
+Employee_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+Employee_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+Employee_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+fictional_character_battles_complex_dp.xlsx;DP;;;;;0.0;Baixa perda;;Não aplicável (DP)
+fictional_character_battles_complex_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+fictional_character_battles_complex_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+fictional_character_battles_complex_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+german_credit_data_dp.xlsx;DP;;;;;0.0778;Baixa perda;;Não aplicável (DP)
+german_credit_data_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+german_credit_data_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+german_credit_data_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+Heart_Attack_Data_Set_dp.xlsx;DP;;;;;0.81;Alta perda;;Não aplicável (DP)
+Heart_Attack_Data_Set_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.1941;Baixo risco
+Heart_Attack_Data_Set_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.1492;Baixo risco
+Heart_Attack_Data_Set_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.1162;Baixo risco
+loan_data_dp.xlsx;DP;;;;;0.0;Baixa perda;;Não aplicável (DP)
+loan_data_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+loan_data_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+loan_data_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+marketing_campaign_dp.xlsx;DP;;;;;0.0453;Baixa perda;;Não aplicável (DP)
+marketing_campaign_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+marketing_campaign_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+marketing_campaign_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+online_course_engagement_data_dp.xlsx;DP;;;;;0.3557;Perda moderada;;Não aplicável (DP)
+online_course_engagement_data_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+online_course_engagement_data_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+online_course_engagement_data_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+online_retail_customer_churn_dp.xlsx;DP;;;;;0.0788;Baixa perda;;Não aplicável (DP)
+online_retail_customer_churn_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0003;Baixo risco
+online_retail_customer_churn_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0003;Baixo risco
+online_retail_customer_churn_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0003;Baixo risco
+plant_growth_data_dp.xlsx;DP;;;;;0.0;Baixa perda;;Não aplicável (DP)
+plant_growth_data_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0106;Baixo risco
+plant_growth_data_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0148;Baixo risco
+plant_growth_data_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0148;Baixo risco
+predictive_maintenance_dp.xlsx;DP;;;;;13.932;Alta perda;;Não aplicável (DP)
+predictive_maintenance_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.4041;Risco moderado
+predictive_maintenance_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.1107;Baixo risco
+predictive_maintenance_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.3989;Risco moderado
+recruitment_data_dp.xlsx;DP;;;;;0.2518;Baixa perda;;Não aplicável (DP)
+recruitment_data_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+recruitment_data_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+recruitment_data_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+smoking_dp.xlsx;DP;;;;;0.3285;Perda moderada;;Não aplicável (DP)
+smoking_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.2935;Baixo risco
+smoking_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.2775;Baixo risco
+smoking_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.2593;Baixo risco
+Student_Depression_Dataset_dp.xlsx;DP;;;;;0.2891;Baixa perda;;Não aplicável (DP)
+Student_Depression_Dataset_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.1876;Baixo risco
+Student_Depression_Dataset_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.1481;Baixo risco
+Student_Depression_Dataset_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.1083;Baixo risco
+telco_customer_churn_dp.xlsx;DP;;;;;0.1721;Baixa perda;;Não aplicável (DP)
+telco_customer_churn_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0682;Baixo risco
+telco_customer_churn_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0305;Baixo risco
+telco_customer_churn_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0066;Baixo risco
+Term_Deposit_Prediction_dp.xlsx;DP;;;;;0.0948;Baixa perda;;Não aplicável (DP)
+Term_Deposit_Prediction_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+Term_Deposit_Prediction_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+Term_Deposit_Prediction_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
+TravelInsurancePrediction_dp.xlsx;DP;;;;;0.0;Baixa perda;;Não aplicável (DP)
+TravelInsurancePrediction_k_anonimizado.xlsx;K-Anonimato;OK;3;;;0.0;Baixa perda;0.0;Baixo risco
+TravelInsurancePrediction_l_diverso.xlsx;L-Diversidade;;;OK;2;0.0;Baixa perda;0.0;Baixo risco
+TravelInsurancePrediction_t_close.xlsx;T-Closeness;;;;;0.0;Baixa perda;0.0;Baixo risco
