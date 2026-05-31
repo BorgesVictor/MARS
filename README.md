@@ -1,8 +1,10 @@
-# MARS
+**MARS (Meta-learning for Anonymization Recommendation and Selection)** is a meta-learning framework designed to automate the selection of anonymization techniques based on dataset characteristics.
 
-**MARS** is a research repository that provides datasets, source code, anonymized data, meta-features, and experimental results associated with the study presented in the corresponding scientific publication.
+The framework addresses a fundamental challenge in privacy-preserving data publishing: selecting the most appropriate anonymization technique while maintaining a balance between privacy protection and data utility. Instead of relying on manual trial-and-error procedures, MARS learns from previous anonymization scenarios and recommends the technique that is expected to provide the best utility for a given dataset.
 
-The repository was created to support transparency, reproducibility, and further research in the areas of privacy-preserving data publishing, machine learning, and meta-learning.
+To build the recommendation model, multiple anonymization techniques, including **k-anonymity**, **l-diversity**, **t-closeness**, and **differential privacy**, are applied to a collection of tabular datasets. The resulting anonymized datasets are evaluated using machine learning models, and dataset characteristics are extracted through meta-features. These meta-features are then used to train meta-models capable of predicting the most suitable anonymization technique for unseen datasets.
+
+This repository contains all artifacts associated with the MARS framework, including datasets, anonymized datasets, extracted meta-features, source code, experimental results, and supplementary materials required to reproduce the study.
 
 ## Repository Structure
 
